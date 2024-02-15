@@ -18,5 +18,10 @@
 
 
         public string Email5 { get; set; }
+        public string Email6 { get; set; }
+
+        public string Email7 { get; set; }
+
+        public string Email8 { get; set; }
     }
 }
