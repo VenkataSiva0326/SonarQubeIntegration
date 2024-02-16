@@ -23,5 +23,7 @@
         public string Email7 { get; set; }
 
         public string Email8 { get; set; }
+
+        public int MyProperty { get; set; }
     }
 }
