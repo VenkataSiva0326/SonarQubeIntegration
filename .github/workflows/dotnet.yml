@@ -2,9 +2,8 @@ name: Sonaqube Integration With GitHub
 
 on:
   push:
-    branches:
-      - master
-      - branch-*
+    branches-ignore:
+      - master   
   pull_request:
     types: [opened, synchronize, reopened]
 
