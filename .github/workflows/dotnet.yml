@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-      - branch-*
+      - Test_Branch_123
   pull_request:
     types: [opened, synchronize, reopened]
 
