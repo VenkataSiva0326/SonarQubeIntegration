@@ -17,5 +17,17 @@
         public int MyProperty7 { get; set;}
 
         public int MyProperty8 { get; set;} 
+
+            public int MyProperty9 { get; set;}
+
+        public int MyProperty10 { get; set;}    
+        public int MyProperty11 { get; set;}
+        public int MyProperty12 { get; set;}
+
+        public int MyProperty13 { get; set;}
+
+
+
+
     }
 }
